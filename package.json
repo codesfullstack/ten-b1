@@ -1,0 +1,11 @@
+﻿{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Node.js backend for consuming a public API requiring an API key",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+    }
+  }
